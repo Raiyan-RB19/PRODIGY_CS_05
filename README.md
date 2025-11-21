@@ -33,7 +33,7 @@ Windows Only: This tool requires Administrator privileges to function correctly.
 
 Run the script:
 ```bash
-python detecter.py
+python detector.py
 ```
 ## Usage Guide
 **1. Run as Admin**
